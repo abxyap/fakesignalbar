@@ -5,5 +5,5 @@ Architecture: iphoneos-arm
 Description: Fake carrier name, signal strength, cellular connections, and more! Motivated by SniperGER's Signal tweak.
 Maintainer: alias20
 Author: alias20
-Section: Tweaks, preferenceloader
-Depends: mobilesubstrate (>= 0.9.5000)
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
